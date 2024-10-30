@@ -10,7 +10,7 @@
     "@testing-library/react": "^11.1.2",
     "@testing-library/user-event": "^12.2.2",
     "@types/axios": "^0.14.0",
-    "@types/lodash": "4.14.186",
+    "@types/lodash": "4.17.13",
     "@types/lodash.debounce": "^4.0.6",
     "@types/node": "16.11.68",
     "@types/react": "^17.0.37",
